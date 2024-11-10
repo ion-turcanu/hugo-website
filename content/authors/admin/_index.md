@@ -62,7 +62,7 @@ education:
       Thesis on _Integrated Wireless Access and Networking to Support Floating Car Data Collection in Vehicular Networks_. Supervised by Prof. Andrea Baiocchi.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: publication/turcanu2018integrated
   - area: MSc Engineering in Computer Science
     institution: University of Rome Sapienza
     date_start: 2012-03-01
