@@ -8,7 +8,7 @@ authors:
   - Marie-Laure Watrinet
   - admin
 date: 2024-10-09
-doi: ""
+doi: "10.1109/BRAINS63024.2024.10732466"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-09-18T00:00:00+01:00
