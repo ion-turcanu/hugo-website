@@ -1,7 +1,7 @@
 ---
 title: Awards
 summary: The list of awards.
-show_date: false
+date: 2024-01-01
 ---
   
 - <b>"Mario Gerla Best Paper Award"</b>  

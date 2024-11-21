@@ -1,7 +1,7 @@
 ---
 title: Advised Theses
 summary: The list of theses I supervised or co-supervised.
-show_date: false
+date: 2024-01-01
 ---
 
 ### Ph.D.  

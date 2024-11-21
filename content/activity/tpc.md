@@ -1,7 +1,7 @@
 ---
 title: Chairing and TPC
 summary: The list of conferences and events for which I contributed as Chair or member of the Technical Program Committee.
-show_date: false
+date: 2024-01-01
 ---
 
 ### Chairing  
