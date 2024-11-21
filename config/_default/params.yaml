@@ -38,7 +38,7 @@ header:
     logo:
       text: "Ion Turcanu"
       # Logo filename in `assets/media/` folder
-      #filename: "logo.svg"
+      filename: "icon.png"
 
 # Site footer
 footer:
