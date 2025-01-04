@@ -167,15 +167,14 @@ awards:
 
 ## About Me
 
-Ion Turcanu is a Senior Researcher and Head of the Edge Computing & Networks (EDGE) group at the [Luxembourg Institute of Science and Technology (LIST)](https://www.list.lu/).
-He joined LIST in 2021 after having spent four years as a postdoctoral researcher at the [Interdisciplinary Centre for Security, Reliability and Trust (SnT)](https://wwwen.uni.lu/snt), University of Luxembourg.
+Ion Turcanu is Head of the Networking and Communications (NETCOM) group at the [Luxembourg Institute of Science and Technology (LIST)](https://www.list.lu/).
+He received his M.Sc and Ph.D. degrees from the [University of Rome Sapienza](https://www.uniroma1.it/it/pagina-strutturale/home) in 2014 and 2018 respectively.
 
-Ion received his Ph.D. degree in information and communications technologies and his M.Sc. degree in computer science from the [University of Rome Sapienza](https://www.uniroma1.it/it/pagina-strutturale/home) in 2018 and 2014 respectively.
-In 2016, he was a visiting scholar with the Distributed Embedded Systems group at [Paderborn University](https://www.uni-paderborn.de/).
-
-His research expertise is in the areas of next-generation mobile networks, cooperative networked systems, V2X communications, connected and automated mobility, and time-sensitive networking.
-He has over 40 peer-reviewed publications in prestigious venues with over 350 citations.
+Dr. Turcanu's research expertise is in the areas of next-generation mobile networks, cooperative networked systems, V2X communications, connected and automated mobility, and time-sensitive networking.
+He has over 40 peer-reviewed publications in prestigious venues with over 500 citations.
 He received the “Mario Gerla Best Paper Award” from the 21st Mediterranean Communication and Computer Networking Conference (MedComNet 2023).
 
-He has served as a reviewer for several reputable journals, including IEEE Transactions on Vehicular Technology, Elsevier Vehicular Communications, IEEE Communications Magazine, and IEEE Transaction on Mobile Computing.
+Dr. Turcanu is a IEEE Senior Member.
+Since 2025, he serves as associate editor for the IEEE Vehicular Technology Magazine.
+He has served as reviewer for several reputable journals, including IEEE Transactions on Vehicular Technology, Elsevier Vehicular Communications, IEEE Communications Magazine, and IEEE Transaction on Mobile Computing.
 He has also served on the technical and executive committees of several conferences including TPC Co-Chair for MedComNet 2024, Poster/Demo Co-Chair for IEEE VNC 2024, and TPC Track Chair for IEEE MELECON 2022.

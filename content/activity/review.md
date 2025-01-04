@@ -1,10 +1,13 @@
 ---
-title: Reviewer
+title: Editorial
 summary: The list of scientific journals and conferences for which I contributed as reviewer.
 date: 2024-01-01
 ---
 
-### Journals  
+### Editor  
+- Associate Editor (Connected and Automated Vehicles) @ [IEEE Vehicular Technology Magazine](https://vtsociety.org/publication/vtmagazine#committee)
+
+### Reviewer Journals  
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Vehicular Technology
 - IEEE Transactions on Intelligent Transportation Systems
@@ -22,7 +25,7 @@ date: 2024-01-01
 - Springer Wireless Networks
 
 
-### Conferences  
+### Reviewer Conferences  
 - IEEE ICCCN 2023
 - IEEE CCNC 2022
 - IEEE INFOCOM 2022/2020/2018
