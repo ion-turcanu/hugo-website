@@ -4,8 +4,9 @@ summary: The list of scientific journals and conferences for which I contributed
 date: 2024-01-01
 ---
 
-### Editor  
-- Associate Editor (Connected and Automated Vehicles) @ [IEEE Vehicular Technology Magazine](https://vtsociety.org/publication/vtmagazine#committee)
+### Editorial Boards  
+- Editor @ [Elsevier Vehicular Communications](https://www.sciencedirect.com/journal/vehicular-communications/about/editorial-board) (January 2025 - December 2026)
+- Associate Editor - Connected and Automated Vehicles @ [IEEE Vehicular Technology Magazine](https://vtsociety.org/publication/vtmagazine#committee) (January 2025 - December 2026)
 
 ### Reviewer Journals  
 - IEEE Transactions on Mobile Computing
