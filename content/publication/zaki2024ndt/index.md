@@ -8,7 +8,7 @@ authors:
   - admin
   - Sébastien Faye
 date: 2024-11-25
-doi: ""
+doi: "10.1109/CSCN63874.2024.10849705"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-11-30T00:00:00+01:00
@@ -61,7 +61,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [6g-twin]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
