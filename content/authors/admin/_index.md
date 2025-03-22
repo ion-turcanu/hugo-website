@@ -175,6 +175,6 @@ He has over 40 peer-reviewed publications in prestigious venues with over 500 ci
 He received the “Mario Gerla Best Paper Award” from the 21st Mediterranean Communication and Computer Networking Conference (MedComNet 2023).
 
 Dr. Turcanu is a IEEE Senior Member.
-Since 2025, he serves as associate editor for the IEEE Vehicular Technology Magazine.
+Since 2025, he serves on the editorial board of IEEE Vehicular Technology Magazine and Elsevier Vehicular Communications.
 He has served as reviewer for several reputable journals, including IEEE Transactions on Vehicular Technology, Elsevier Vehicular Communications, IEEE Communications Magazine, and IEEE Transaction on Mobile Computing.
 He has also served on the technical and executive committees of several conferences including TPC Co-Chair for MedComNet 2024, Poster/Demo Co-Chair for IEEE VNC 2024, and TPC Track Chair for IEEE MELECON 2022.
