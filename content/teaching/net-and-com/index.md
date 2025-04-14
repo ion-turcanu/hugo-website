@@ -13,9 +13,6 @@ image:
 
 
 {{% callout note %}}
-**Schedule 2023-2024**  
-Classes: Thursday at 08:45 - 10:15  
-Practicals: Thursday at 10:30 - 12:00  
 Slides can be found [here](https://gaia.cs.umass.edu/kurose_ross/ppt.php)  
 {{% /callout %}}
 
