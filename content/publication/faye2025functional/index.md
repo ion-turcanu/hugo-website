@@ -16,7 +16,7 @@ authors:
   - Miguel Camelo
 
 date: 2025-06-03
-doi: ""
+doi: "10.1109/EuCNC/6GSummit63408.2025.11036908"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-05-02T00:00:00+01:00
