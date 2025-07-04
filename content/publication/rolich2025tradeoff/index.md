@@ -10,7 +10,7 @@ authors:
   - Andrea Baiocchi
 
 date: 2025-06-02
-doi: ""
+doi: "10.1109/VNC64509.2025.11054234"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-05-02T00:00:00+01:00
