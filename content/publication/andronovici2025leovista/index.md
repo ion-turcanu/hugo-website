@@ -10,7 +10,7 @@ authors:
   - admin
   - Christoph Sommer
 date: 2025-09-18
-doi: ""
+doi: "10.1109/DS-RT68115.2025.11186012"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-08-24T00:00:00+01:00
