@@ -9,7 +9,7 @@ authors:
   - Maxime Poncin
   - German Castignani
 date: 2025-09-08
-doi: ""
+doi: "10.1109/MT-ITS68460.2025.11223541"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-08-15T00:00:00+01:00

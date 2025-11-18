@@ -8,7 +8,7 @@ authors:
   - admin
   - Sébastien Faye
 date: 2025-09-15
-doi: ""
+doi: "10.1109/CSCN67557.2025.11230727"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-08-15T00:00:00+01:00

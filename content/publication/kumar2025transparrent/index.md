@@ -8,7 +8,7 @@ authors:
   - Olivier Bouton
   - admin
 date: 2025-05-21
-doi: ""
+doi: "10.1109/INFOCOMWKSHPS65812.2025.11152927"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-03-09T00:00:00+01:00

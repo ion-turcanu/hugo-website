@@ -57,7 +57,7 @@ education:
   - area: PhD Information and Communication Technologies
     institution: University of Rome Sapienza
     date_start: 2014-11-01
-    date_end: 2022-02-22
+    date_end: 2018-02-22
     summary: |
       Thesis on _Integrated Wireless Access and Networking to Support Floating Car Data Collection in Vehicular Networks_. Supervised by Prof. Andrea Baiocchi.
     button:
