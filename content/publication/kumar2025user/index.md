@@ -7,7 +7,7 @@ authors:
   - Juan Carlos Estrada-Jimenez
   - admin
 date: 2025-11-10
-doi: ""
+doi: "10.1109/FNWF66845.2025.11317602"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-10-14T00:00:00+01:00
