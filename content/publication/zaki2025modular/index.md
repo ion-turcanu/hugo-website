@@ -9,7 +9,7 @@ authors:
   - admin
   - Sébastien Faye
 date: 2025-12-08
-doi: ""
+doi: "10.1109/GLOBECOM59602.2025.11431914"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2025-09-19T00:00:00+01:00
