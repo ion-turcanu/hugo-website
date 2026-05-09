@@ -9,7 +9,7 @@ authors:
   - Christoph Sommer
   - admin
 date: 2026-02-15
-doi: ""
+doi: "10.23919/WONS68803.2026.11501784"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2026-02-15T00:00:00+01:00
